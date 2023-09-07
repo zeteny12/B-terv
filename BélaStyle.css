@@ -1,0 +1,87 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 2%;
+    background-image: linear-gradient(to bottom left, purple, rgb(95,147,214));
+    background-attachment: fixed;
+}
+
+header{
+    background-color: black;
+    color: #fff;
+    padding: 10px 0;
+    border-radius: 100px;
+}
+
+nav ul{
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+
+}
+nav li{
+    display: inline;
+    margin-right: 20px;
+    text-align: center;
+}
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+nav a:hover{
+    text-decoration: underline;
+}
+#ikon{
+    text-align: left;
+    margin-left: 70px;
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: #333;
+    background-color: #f0f0f0;
+    font-style: italic;
+    font-weight: bold;
+    margin: 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+h2{
+    text-decoration: underline;
+}
+
+
+
+#cim{
+    background-color: antiquewhite;
+    padding: 1%;
+    border-radius: 100px;
+}
+
+#adatok{
+    text-align: center;
+    background-color: aquamarine;
+}
+
+#a{
+    background-color: beige;
+    text-align: center;
+}
+
+#b{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+.idezetek{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.kiskepek{
+    border-radius: 30px;
+}
